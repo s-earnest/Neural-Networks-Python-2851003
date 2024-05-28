@@ -17,3 +17,5 @@ Some branches will have a beginning and an end state. These are marked with the 
 	- Tkinter
 2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
 3. You may either edit the code in your favorite text editor and run from the command line, or you may use your favorite Python IDE. In the course videos you'll see the exercise files in Visual Studio Code.
+
+https://www.linkedin.com/learning/training-neural-networks-in-python-17058600/the-training-process?resume=false&u=136863626
